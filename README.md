@@ -13,3 +13,4 @@ Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following 
 
     syntax enable
     colorscheme monokai
+    set number
